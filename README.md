@@ -1,4 +1,6 @@
 # WGU-C482
+Update 7/2020: After realizing I uploaded the copmiled class files only, I decompiled them to upload here for viewing using the Java Decompiler Project tool (http://java-decompiler.github.io/).
+
 Culminating project for Software I, developed with Java and JavaFX in the Netbeans IDE.
 
 For this project, I was presented the following scenario:
